@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Flexiston 的网站状态',
+  SiteName: '卓越科技- 的网站状态',
 
   // 站点链接
   SiteUrl: '/',
