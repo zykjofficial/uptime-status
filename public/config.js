@@ -10,9 +10,8 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm785779108-9b23975e428afe17fd83ec42',
-    'm785780051-3f993672ec1607542cb3f386',
-    'm785780048-b5bce3098d41a8ac7acb2e65'
+    'm785780499-7f47f7a1ada2f15a77b799bf',
+    'm785780472-7e4912db04850ad43cc0eeb9',
   ],
 
   // 是否显示监测站点的链接
@@ -26,12 +25,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Home Page',
-      url: 'https://i.flexiston.com/'
+      text: '个人主页',
+      url: 'https://zykjofficial.top/'
     },
     {
-      text: 'Blog',
-      url: 'https://flexiston.com/'
+      text: '博客',
+      url: 'https://blog.zykjofficial.top/'
     }
   ]
 };
